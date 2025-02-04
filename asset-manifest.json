@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AsyaDev14/Money-tracker/static/css/main.b502eadf.css",
-    "main.js": "/AsyaDev14/Money-tracker/static/js/main.c4ed11f9.js",
+    "main.js": "/AsyaDev14/Money-tracker/static/js/main.4baf5d3d.js",
     "static/media/deskRegister.jpg": "/AsyaDev14/Money-tracker/static/media/deskRegister.75d916277e1e1072b976.jpg",
     "static/media/LoginFonIMac.jpg": "/AsyaDev14/Money-tracker/static/media/LoginFonIMac.3277a09b3c01d8359ca5.jpg",
     "static/media/tabletRegister.jpg": "/AsyaDev14/Money-tracker/static/media/tabletRegister.89c95658c5cf7f253023.jpg",
@@ -23,10 +23,10 @@
     "static/media/close.svg": "/AsyaDev14/Money-tracker/static/media/close.1c3795d4a77580438e0ee12c41c82e6b.svg",
     "static/media/slash.svg": "/AsyaDev14/Money-tracker/static/media/slash.0de4a54764962cd9ea4f00c124f2d44f.svg",
     "main.b502eadf.css.map": "/AsyaDev14/Money-tracker/static/css/main.b502eadf.css.map",
-    "main.c4ed11f9.js.map": "/AsyaDev14/Money-tracker/static/js/main.c4ed11f9.js.map"
+    "main.4baf5d3d.js.map": "/AsyaDev14/Money-tracker/static/js/main.4baf5d3d.js.map"
   },
   "entrypoints": [
     "static/css/main.b502eadf.css",
-    "static/js/main.c4ed11f9.js"
+    "static/js/main.4baf5d3d.js"
   ]
 }
