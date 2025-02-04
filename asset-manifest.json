@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Money-tracker/static/css/main.13e336f6.css",
-    "main.js": "/Money-tracker/static/js/main.fea3eeb1.js",
+    "main.js": "/Money-tracker/static/js/main.b6eaa4db.js",
     "static/media/deskRegister.jpg": "/Money-tracker/static/media/deskRegister.75d916277e1e1072b976.jpg",
     "static/media/LoginFonIMac.jpg": "/Money-tracker/static/media/LoginFonIMac.3277a09b3c01d8359ca5.jpg",
     "static/media/tabletRegister.jpg": "/Money-tracker/static/media/tabletRegister.89c95658c5cf7f253023.jpg",
@@ -23,10 +23,10 @@
     "static/media/close.svg": "/Money-tracker/static/media/close.1c3795d4a77580438e0ee12c41c82e6b.svg",
     "static/media/slash.svg": "/Money-tracker/static/media/slash.0de4a54764962cd9ea4f00c124f2d44f.svg",
     "main.13e336f6.css.map": "/Money-tracker/static/css/main.13e336f6.css.map",
-    "main.fea3eeb1.js.map": "/Money-tracker/static/js/main.fea3eeb1.js.map"
+    "main.b6eaa4db.js.map": "/Money-tracker/static/js/main.b6eaa4db.js.map"
   },
   "entrypoints": [
     "static/css/main.13e336f6.css",
-    "static/js/main.fea3eeb1.js"
+    "static/js/main.b6eaa4db.js"
   ]
 }
