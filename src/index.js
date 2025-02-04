@@ -9,7 +9,7 @@ import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <BrowserRouter basename="/Money-tracker">
+  <BrowserRouter >
     <Provider store={store}>
       <App />
       <ToastContainer autoClose={1500} theme="dark" />
