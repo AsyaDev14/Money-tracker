@@ -1,8 +1,8 @@
 {
-  "name": "project-codefusion",
+  "name": "money-tracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://goldenrash-lab.github.io/project-codefusion/",
+  "homepage": "https://github.com/AsyaDev14/Money-tracker",
   "dependencies": {
     "@hookform/resolvers": "^3.3.4",
     "@reduxjs/toolkit": "^2.0.1",
