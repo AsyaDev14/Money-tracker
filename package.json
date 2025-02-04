@@ -2,7 +2,7 @@
   "name": "money-tracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/AsyaDev14/Money-tracker",
+  "homepage": "https://AsyaDev14.github.io/Money-tracker",
   "dependencies": {
     "@hookform/resolvers": "^3.3.4",
     "@reduxjs/toolkit": "^2.0.1",
