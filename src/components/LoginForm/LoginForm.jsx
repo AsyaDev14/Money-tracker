@@ -70,7 +70,7 @@ const LoginForm = () => {
       .then(() => {
         toast.success("You're logged in!");
       })
-      .catch(() => toast.error('Something went wrong!'));
+      .catch((err) => toast.error(err.data.message));
   }
 
   const isAuthenticated = useSelector(state => state.auth.user);

@@ -10,7 +10,7 @@ export const registerThunk = createAsyncThunk(
 
       return data;
     } catch (error) {
-      return thunkApi.rejectWithValue(error.message);
+      return thunkApi.rejectWithValue(error.response);
     }
   }
 );
@@ -23,7 +23,7 @@ export const loginThunk = createAsyncThunk(
       setToken(data.token);
       return data;
     } catch (error) {
-      return thunkApi.rejectWithValue(error.message);
+      return thunkApi.rejectWithValue(error.response);
     }
   }
 );
@@ -35,7 +35,7 @@ export const logoutThunk = createAsyncThunk(
       await api.delete('api/auth/sign-out');
       clearToken();
     } catch (error) {
-      return thunkApi.rejectWithValue(error.message);
+      return thunkApi.rejectWithValue(error.response);
     }
   }
 );
